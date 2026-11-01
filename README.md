@@ -1,4 +1,4 @@
-# agentrenderapi-com
+# AgentRender
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,104 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-agentrenderapi-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://agentrenderapi.com/
+AgentRender provides a read‑only remote MCP (Multi‑Channel Platform) that captures, screenshots, PDFs and extracts structured data from public webpages. Integrated with ChatGPT, it lets users embed visual QA, competitive analysis, and research briefs directly in AI workflows. The service offers free tier limits, paid plans via Stripe, and open‑source client libraries for Python and other environments. It emphasizes privacy, with no logging of user data, and includes public API documentation and SDKs.
+
+**Areas:** AI · Automation · Screenshot · PDF · Data Extraction · ChatGPT
+
+## AgentRender on APIs.io
+
+Everything profiled for AgentRender is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/agentrenderapi-com/](https://apis.io/providers/agentrenderapi-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (3)
+
+- [AgentRender API](https://apis.io/apis/agentrenderapi-com/agentrender-api/) — Agent-native URL rendering API for screenshots, PDFs, and data extraction.
+- [AgentRender Corpus API](https://apis.io/apis/agentrenderapi-com/agentrenderapi-com-corpus-api/) — The knowledge itself: objects, their index and the evidence behind them.
+- [AgentRender Deployment API](https://apis.io/apis/agentrenderapi-com/agentrenderapi-com-deployment-api/) — What this deployment is and what it serves: manifests, versions, this document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Agentrenderapi Com Agentic Access](https://apis.io/agentic-access/agentrenderapi-com/agentrenderapi-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [AgentRender API Rules](https://apis.io/rules/agentrenderapi-com/agentrenderapi-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Agentrenderapi Com Domain Security](https://apis.io/security/agentrenderapi-com/agentrenderapi-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://agentrenderapi.com/)
+- [Documentation](https://api.agentrenderapi.com/docs)
+- [Pricing](https://agentrenderapi.com/pricing)
+- [Terms of service](https://agentrenderapi.com/terms)
+- [Privacy policy](https://agentrenderapi.com/privacy)
+- [GitHub](https://github.com/corbinvachal48/agentrender-mcp)
+
+## API Evangelist rating
+
+**Kin Score 36.1** — thin · rubric 0.25.0 · scored 2026-11-01
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 41.6 |
+| Contract governance | 70.9 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 16.0 |
+| Access clarity | 31.6 |
+
+**Agent readiness 30.5** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentrenderapi-com/](https://apis.io/providers/agentrenderapi-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for AgentRender: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/agentrenderapi-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
