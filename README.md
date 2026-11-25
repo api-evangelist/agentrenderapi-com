@@ -66,7 +66,7 @@
 
 AgentRender provides a read‑only remote MCP (Multi‑Channel Platform) that captures, screenshots, PDFs and extracts structured data from public webpages. Integrated with ChatGPT, it lets users embed visual QA, competitive analysis, and research briefs directly in AI workflows. The service offers free tier limits, paid plans via Stripe, and open‑source client libraries for Python and other environments. It emphasizes privacy, with no logging of user data, and includes public API documentation and SDKs.
 
-**Areas:** AI · Automation · Screenshot · PDF · Data Extraction · ChatGPT
+**Areas:** Artificial Intelligence · Automation · Screenshots · PDF · Data Extraction · ChatGPT
 
 ## AgentRender on APIs.io
 
@@ -86,7 +86,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [Agentrenderapi Com Agentic Access](https://apis.io/agentic-access/agentrenderapi-com/agentrenderapi-com-agentic-access/)
+- [AgentRender Agentic Access](https://apis.io/agentic-access/agentrenderapi-com/agentrenderapi-com-agentic-access/)
 
 #### Governance rules (1)
 
@@ -98,7 +98,7 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agentrenderapi Com Domain Security](https://apis.io/security/agentrenderapi-com/agentrenderapi-com-domain-security/)
+- [AgentRender Domain Security](https://apis.io/security/agentrenderapi-com/agentrenderapi-com-domain-security/)
 
 ## Where to find this API
 
@@ -113,27 +113,27 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 36.1** — thin · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 31.1** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
 | Discoverability | 66.1 |
-| Contract quality | 41.6 |
-| Contract governance | 70.9 |
-| Operational transparency | 5.3 |
+| Contract quality | 44.7 |
+| Contract governance | 19.7 |
+| Operational transparency | 4.8 |
 | Developer ergonomics | 16.0 |
-| Access clarity | 31.6 |
+| Access clarity | 38.3 |
 
-**Agent readiness 30.5** — agent-ready
+**Agent readiness 26.0** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
-| Agentic Access | unknown |
-| Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| Agentic Access | derived (partial credit) |
+| Reversibility Documented | na |
+| MCP Server | — |
 | Auth Clarity | — |
-| Idempotency | — |
+| Idempotency | na |
 | Error Semantics | derived (partial credit) |
 | OpenAPI Examples | — |
 | Rate Limit Signal | — |
@@ -142,15 +142,19 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Well Known Catalog | — |
 | Consent Identity | — |
 | Agent Card | — |
-| Dry Run Mode | — |
+| Dry Run Mode | na |
 | Delegated Identity | — |
 | Protected Resource Metadata | verified |
 | Dynamic Client Registration | — |
 | Agentic Commerce | — |
 | Pagination Ratio | — |
 | Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 11.8** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentrenderapi-com/](https://apis.io/providers/agentrenderapi-com/).
 
